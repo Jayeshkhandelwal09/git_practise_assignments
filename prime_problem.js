@@ -6,7 +6,7 @@ for (let x = 0 ; x <= 13 ; x++){
     }
 }
 if(count==2){
-    console.log(num,"is not prime")
-}else{
     console.log(num,"is prime")
+}else{
+    console.log(num,"is not prime")
 }
